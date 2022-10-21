@@ -1,0 +1,56 @@
+Learming report-1:
+
+Date: Oct 12,2022 - Wednesday
+By:Rohith Kumar
+
+TECH:
+1.Learned the basics of data scrapping in selenium
+
+1.Learned a new topic which I have not heard of and it was a good session
+
+Learming report-2:
+
+Date: Oct 13,2022 - Thursday
+By:Rohith Kumar
+
+TECH:
+1.Learned the basics of data scrapping in selenium
+
+1.I got a working experience of using selenium
+
+Learming report-3:
+
+Date: Oct 17,2022 - Monday
+By:Rohith Kumar
+
+1.Done some works in selenium
+
+Learming report-4:
+
+Date: Oct 18,2022 - Tuesday
+By:Rohith Kumar
+
+1.Done some works in selenium
+
+Learming report-5:
+
+Date: Oct 19,2022 - Wednesday
+By:Rohith Kumar
+
+1.Done some works in selenium
+
+
+Learming report-6:
+
+Date: Oct 20,2022 - Thursday
+By:Rohith Kumar
+
+1.Done some works in selenium
+
+Learming report-7:
+
+Date: Oct 21,2022 - Friday
+By:Rohith Kumar
+
+1.Done some works in selenium
+2.Learned what is flask

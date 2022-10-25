@@ -54,3 +54,11 @@ By:Rohith Kumar
 
 1.Done some works in selenium
 2.Learned what is flask
+
+Learming report-:
+
+Date: Oct 25,2022 - Wednesday
+By:Rohith Kumar
+
+1.Learned what is dynamic route in flask
+2.Learned basics of rendering template

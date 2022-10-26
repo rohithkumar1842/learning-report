@@ -57,8 +57,17 @@ By:Rohith Kumar
 
 Learming report-:
 
-Date: Oct 25,2022 - Wednesday
+Date: Oct 25,2022 - Tuesday
 By:Rohith Kumar
 
 1.Learned what is dynamic route in flask
 2.Learned basics of rendering template
+
+Learming report-:
+
+Date: Oct 25,2022 - wednesday
+By:Rohith Kumar
+
+1.Learned basics of rendering template
+2.Done task in rendering template
+3.Learned how to use submit button in html

@@ -65,9 +65,21 @@ By:Rohith Kumar
 
 Learming report-:
 
-Date: Oct 25,2022 - wednesday
+Date: Oct 26,2022 - wednesday
 By:Rohith Kumar
 
 1.Learned basics of rendering template
 2.Done task in rendering template
 3.Learned how to use submit button in html
+
+Date: Oct 27,2022 - Thursday
+By:Rohith Kumar
+
+1.Done task in webscarpping using selenium
+
+
+
+Date: Oct 28,2022 - Friday
+By:Rohith Kumar
+
+1.Done task in webscarpping using selenium

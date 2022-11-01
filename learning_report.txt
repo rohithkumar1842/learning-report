@@ -83,3 +83,8 @@ Date: Oct 28,2022 - Friday
 By:Rohith Kumar
 
 1.Done task in webscarpping using selenium
+
+Date: Oct 31,2022 - Monday
+By:Rohith Kumar
+
+1.Started the documentation for selenium

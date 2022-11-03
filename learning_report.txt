@@ -89,9 +89,13 @@ By:Rohith Kumar
 
 1.Started the documentation for selenium
 
-Date: Oct 31,2022 - Monday
+Date: Nov 01,2022 - Tuesday
 By:Rohith Kumar
 
 1.Done the documentation for selenium
 2.Done task in webscarpping using selenium
 
+
+Date: Nov 01,2022 - Wednesday
+By:Rohith Kumar
+1.Searched some topics in selenium

@@ -99,3 +99,7 @@ By:Rohith Kumar
 Date: Nov 01,2022 - Wednesday
 By:Rohith Kumar
 1.Searched some topics in selenium
+
+Date: Nov 02,2022 - Thursday
+By:Rohith Kumar
+1.Done some task in selenium

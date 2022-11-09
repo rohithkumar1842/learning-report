@@ -96,10 +96,14 @@ By:Rohith Kumar
 2.Done task in webscarpping using selenium
 
 
-Date: Nov 01,2022 - Wednesday
+Date: Nov 02,2022 - Wednesday
 By:Rohith Kumar
 1.Searched some topics in selenium
 
-Date: Nov 02,2022 - Thursday
+Date: Nov 03,2022 - Thursday
 By:Rohith Kumar
 1.Done some task in selenium
+
+Date: Nov 07,2022 - Monday
+By:Rohith Kumar
+1.Learned about try and except in python

@@ -107,3 +107,7 @@ By:Rohith Kumar
 Date: Nov 07,2022 - Monday
 By:Rohith Kumar
 1.Learned about try and except in python
+
+Date: Nov 09,2022 -Wednesday
+By:Rohith Kumar
+1.Learned about class, class intialization and inheritence

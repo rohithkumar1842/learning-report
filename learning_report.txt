@@ -111,3 +111,8 @@ By:Rohith Kumar
 Date: Nov 09,2022 -Wednesday
 By:Rohith Kumar
 1.Learned about class, class intialization and inheritence
+
+Date: Nov 10,2022 -Thursday
+By:Rohith Kumar
+1.Done some task in isdown.
+

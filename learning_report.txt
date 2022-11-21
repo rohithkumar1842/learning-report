@@ -120,3 +120,8 @@ By:Rohith Kumar
 Date: Nov 14,2022 -Monday
 By:Rohith Kumar
 1.Entered https codes data in is-down repository
+
+
+Date: Nov 15,2022 -Tuesday
+By:Rohith Kumar
+1.Done some task in isdown
